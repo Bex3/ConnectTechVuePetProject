@@ -1,2 +1,0 @@
-# ConnectTechVuePetProject
-Created with CodeSandbox
